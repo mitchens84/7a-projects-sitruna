@@ -16,7 +16,7 @@
     "@types/jsdom": "^21.1.7",
     "@types/react-router-dom": "^5.3.3",
     "jsdom": "^24.1.0",
-    "lucide-react": "^0.576.0",
+    "lucide-react": "^0.577.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-router-dom": "^6.23.1"
